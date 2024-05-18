@@ -1,0 +1,41 @@
+USED TECK STACK FOR BACKEND:::
+Keep type to module to use es6 snippet
+Express
+Mongoose
+Cors
+Dotenv
+JsonWebToken
+Multer
+Socket.io
+UUID
+Bcrypt
+Cookie-parser
+Cloudinary
+bcrypt
+json web token
+express validator
+
+"scripts": {
+"start": "node app.js", this is for production mode when you run npm start it will execure node app.js where app.js is the entry point of your applications
+"dev": "nodemon app.js" this script is used for development purpose it uses nodemon wich is a utility that monitors for changes in your node application and automatically restarts
+},
+
+Multer is a middleware for handling multipart/form-data which is primarily used for uploading files in Node.js applications.It is particularily useful when you need to handle file uploads in forms such as uploading images videos or documents..
+
+Cloudinary is a cloud based service that provides an end to end image and video management solution . it offers a range of features for storing managing manipulating optimizing and delivering images and videos for web and mobile application...
+
+DEV DEPENDENCIES
+Nodemon
+@faker-js/faker
+
+Faker is a javascript library that helps you generate fake data such as names address phone numbers emails and more it is commonly used in testing and developing environments to create realistic looking but fake data for populating databases generating sample data for demos and other purposes where you need dummy data ..
+
+FOLDER STRUCTURES::
+Constants ::: We will keep constant events like sockets ..
+Controllers :::
+Middlewares
+Models
+Routes
+Seeders
+Utils
+app.js
