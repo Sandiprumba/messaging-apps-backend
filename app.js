@@ -18,6 +18,7 @@ import userRoute from "./routes/user.js";
 import chatRoute from "./routes/chat.js";
 import adminRoute from "./routes/admin.js";
 
+//THIS IS BACKEND HAHA WROTE IT CAUSE I AM HAVING ISSUE WITH GIT HUB
 // import { createGroupMessages, createMessagesInAChat, createSingleChats } from "./seeders/chat.js";
 
 dotenv.config({
